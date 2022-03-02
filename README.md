@@ -1,2 +1,1 @@
-hoge
-Hello World
+あたしの伝説はここから始まる
